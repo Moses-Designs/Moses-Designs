@@ -1,10 +1,27 @@
 <div align="center">
   <h1>Hi there, I'm Moses Maina 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2800&color=00FF9F&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;Software+Developer;Building+modern+web+experiences;MERN+Stack+Enthusiast" alt="Typing SVG" />
-  
-  <p><strong>Turning designs into pixel-perfect, scalable web applications.</strong></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2800&color=00FF9F&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;Software+Developer;MERN+Stack+Enthusiast;Turning+designs+into+scalable+web+apps" alt="Typing SVG" />
 </div>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:mosejr579@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/2547XXXXXXXX"> <!-- ← Replace with your actual WhatsApp number -->
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://linkedin.com/in/moses-maina-0316b53a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://moses-maina09.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -17,20 +34,24 @@ I'm **Moses Maina**, a passionate **Frontend Web Developer** and **Software Deve
 - 💡 I love clean code, great UI/UX, and turning beautiful designs into functional applications
 - 📍 Based in Kenya | Open to collaborations and remote opportunities
 
-### 🚀 Tech Stack & Skills
+### 🛠️ Technologies
 
-**Frontend:**  
-React • HTML • CSS • JavaScript
-
-**Backend & Full-Stack:**  
-Node.js • Express • MongoDB • MySQL • MERN Stack
-
-**Tools & Others:**  
-Git • GitHub
-
+**Frontend**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,express,mongodb,mysql,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript&perline=4" alt="Frontend" />
 </p>
+
+**Backend & Database**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" alt="Backend" />
+</p>
+
+**Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,tailwind&perline=3" alt="Tools" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -53,12 +74,13 @@ Git • GitHub
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me(Again)
 
 <p align="center">
-  <a href="mailto:mosejr579@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/moses-maina-0316b53a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://moses-maina09.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:mosejr579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://wa.me/2547XXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://linkedin.com/in/moses-maina-0316b53a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://moses-maina09.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <div align="center">
@@ -66,3 +88,7 @@ Git • GitHub
 </div>
 
 ✨ Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.
+
+---
+
+*Made with ❤️ in Chuka, Kenya*
