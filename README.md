@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Moses Maina 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2800&color=00FF9F&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;Software+Developer;MERN+Stack+Enthusiast;Turning+designs+into+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2800&color=00FF9F&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Software+Developer;MERN+Stack+Enthusiast;Turning+designs+into+scalable+web+apps" alt="Typing SVG" />
 </div>
 
 ---
