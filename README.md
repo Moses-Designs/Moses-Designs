@@ -12,7 +12,7 @@
   <a href="mailto:mosejr579@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/2547XXXXXXXX"> <!-- ← Replace with your actual WhatsApp number -->
+  <a href="https://wa.me/254792829822"> <!-- ← Replace with your actual WhatsApp number -->
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://linkedin.com/in/moses-maina-0316b53a3">
@@ -67,7 +67,6 @@ I'm **Moses Maina**, a passionate **Frontend Web Developer** and **Software Deve
 ### 🌟 Featured Projects
 
 - **[EduHub](https://github.com/Moses-Designs/EduHub)** — Modern responsive high school website with dynamic homepage, admissions, and student life sections.
-- **[Trading-Journal](https://github.com/Moses-Designs/Trading-Journal)** — Personal trading journal (private).
 - **[Digital-Clock](https://github.com/Moses-Designs/Digital-Clock)** — Clean digital clock built with HTML, CSS & JS.
 - **[My-Portfolio](https://github.com/Moses-Designs/My-Portfolio)** — My personal portfolio website.
 - **[Routine-Tracker](https://github.com/Moses-Designs/Routine-Tracker)** — Habit/routine tracking app.
@@ -78,7 +77,7 @@ I'm **Moses Maina**, a passionate **Frontend Web Developer** and **Software Deve
 
 <p align="center">
   <a href="mailto:mosejr579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://wa.me/2547XXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/254792829822"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://linkedin.com/in/moses-maina-0316b53a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://moses-maina09.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
@@ -86,6 +85,11 @@ I'm **Moses Maina**, a passionate **Frontend Web Developer** and **Software Deve
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Moses-Designs&color=00FF9F&style=flat&label=Profile+Views" alt="Profile views" />
 </div>
+
+---
+
+> **"Experience is the name everyone gives to their mistakes."**  
+> — Oscar Wilde
 
 ✨ Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.
 
